@@ -313,7 +313,7 @@ Chapter 4 "Negotiating Risk, Expertise, and Near-Advocacy" in Callison, Candis. 
 
 _Optional Reading_
 
-Environmental Protection Agency. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Guidelines for Ecological Risk Assessment." (PDF)](https://www.epa.gov/sites/production/files/2014-11/documents/eco_risk_assessment1998.pdf) EPA/630/R-95/002F. Risk Assessment Forum. Washington, D.C.: 1998. Pages 1-124.
+Environmental Protection Agency. ["Guidelines for Ecological Risk Assessment." (PDF)](https://www.epa.gov/sites/production/files/2014-11/documents/eco_risk_assessment1998.pdf) EPA/630/R-95/002F. Risk Assessment Forum. Washington, D.C.: 1998. Pages 1-124.
 
 Chapters 1 and 2 in Cather, David A. and Mark S. Dorfman. _Introduction to Risk Management and Insurance_. Prentice Hall (2007). ISBN: 9780131394124.
 
@@ -433,7 +433,7 @@ READINGS
 
 "[Spectrum of Processess for Collaboration and Consensus-Building in Public Decisions](https://www.slideshare.net/mapdadmin/mapd-mediation-handout)."
 
-Larry Susskind et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The IAP2 Spectrum." (PDF)](http://www.activedemocracy.net/articles/Journal_08December_Carson.pdf) Undated.
+Larry Susskind et al. ["The IAP2 Spectrum." (PDF)](http://www.activedemocracy.net/articles/Journal_08December_Carson.pdf) Undated.
 
 Table: The Tasks of a Mediator, page 142-143 in Susskind, Lawrence, and Jeffrey L. Cruikshank. _Breaking the Impasse: Consensual Approaches to Resolving Public Disputes_. Basic Books, 1987. ISBN: 9780465007509.
 
@@ -519,11 +519,11 @@ Forester, John, and David Stitzel. "[Beyond Neutrality](https://doi.org/10.1111/
 
 Chapters 2 and 6 in Ostrom, Elinor. _Governing the Commons: The Evolution of Institutions for Collective Action_. Cambridge University Press, 1990. ISBN: 9781107569782.
 
-Hardin, Garrett. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Tragedy of the Commons." (PDF - 2.1MB)](https://iseethics.files.wordpress.com/2013/02/hardin-garrett-the-tragedy-of-the-commons.pdf) _Science_ 162, no. 3859 (1968): 1243-1248.
+Hardin, Garrett. ["The Tragedy of the Commons." (PDF - 2.1MB)](https://iseethics.files.wordpress.com/2013/02/hardin-garrett-the-tragedy-of-the-commons.pdf) _Science_ 162, no. 3859 (1968): 1243-1248.
 
 Pages 124-168 in Axelrod, Robert M. _The Evolution of Cooperation_. Basic Nooks, 1984. ISBN: 9780465005642.
 
-Macey, Gregg and Lawrence Susskind. Introduction in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Using Dispute Resolution Techniques to Address Environmental Justice Concerns: Case Studies."(PDF - 1.4MB)](https://www.epa.gov/sites/production/files/2015-09/documents/case-study-report_adr_in_ej.pdf) Prepared by the Consensus Building Institute. 2003.
+Macey, Gregg and Lawrence Susskind. Introduction in ["Using Dispute Resolution Techniques to Address Environmental Justice Concerns: Case Studies."(PDF - 1.4MB)](https://www.epa.gov/sites/production/files/2015-09/documents/case-study-report_adr_in_ej.pdf) Prepared by the Consensus Building Institute. 2003.
 
 _Optional Reading_
 
